@@ -1,0 +1,6 @@
+Flask
+flask_lambda
+requests
+beautifulsoup4
+geopy
+
